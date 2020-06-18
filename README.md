@@ -7,4 +7,7 @@ Do download and test it. Believe me its fun :)
 
 See its video at - https://drive.google.com/open?id=1vMJjP97paDP28PCP1llteckxsntcBBSa 
 
-<video controls="controls" src="https://drive.google.com/open?id=1vMJjP97paDP28PCP1llteckxsntcBBSa"></video>
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/open?id=1vMJjP97paDP28PCP1llteckxsntcBBSa">
+  Your browser sucks!!
+</video>

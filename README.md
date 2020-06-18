@@ -6,7 +6,3 @@ Currently the Calls function of this App doesn't work because of the paid plans.
 Do download and test it. Believe me its fun :) 
 
 See its video at - https://drive.google.com/open?id=1vMJjP97paDP28PCP1llteckxsntcBBSa 
-
-<video autoplay controls>
-  <source src="https://drive.google.com/open?id=1vMJjP97paDP28PCP1llteckxsntcBBSa">
-</video>
